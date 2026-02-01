@@ -8,7 +8,7 @@
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/VoiceTale-0.4.10.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/release-notes/VoiceTale-0.4.10.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-0.4.10.dmg" length="19051632" type="application/octet-stream" sparkle:edSignature="lJ4AE2IfeONHt6MQrWkWjgb1Vb192aNARsrHAEXKP2THAHC9+d+XxgOSSYqoG5VaTlga07KLGgknxrtHsV1mBQ=="/>
         </item>
         <item>
@@ -17,7 +17,7 @@
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/VoiceTale-0.4.9.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/release-notes/VoiceTale-0.4.9.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-0.4.9.zip" length="16425876" type="application/octet-stream" sparkle:edSignature="lNHG/kLxki+6bDvIPt4gWC+WQgeEnYPfy43OOp0iYooA/EwgKL3+69gOmfuaRH46Wd798maAJCXDqOACAxEVBw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-Release/main/VoiceTale32-30.delta" sparkle:deltaFrom="30" length="1445126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q+KC7+Vcj1eY2Co1dNRr606joQLht7SCceYtcxW9JRrd6/3aecvxbseKSNMs3kl0XU9DpzHmTdp9W0rAp7kpAw=="/>
