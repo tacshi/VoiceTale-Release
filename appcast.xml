@@ -9,7 +9,7 @@
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>0.4.12-beta.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/VoiceTale-0.4.12-beta.1.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.12-beta.1.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.4.12-beta.1</h2><ul><li>Allow pre-release suffixes in version validation for release script</li><li>Embed release notes in appcast and update URLs to use GitHub Pages</li><li>v0.4.11 (#103)</li><li>v0.4.10 (#102)</li><li>Update appcast URL in Info.plist and enhance release script for arch-specific build handling</li><li>Add feedback helper for issue reporting and documentation access; enhance release script with GitHub release creation and release notes generation</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12-beta.1/VoiceTale-0.4.12-beta.1.dmg" length="18963861" type="application/octet-stream" sparkle:edSignature="4YRav46oAj52jBOSz5ttMWLaiKgmlTnFl0ZbLD98Fgu3rm1DRvxUZzz90Kv73mm+DMMs6UFikIVFRwgI7oTlAA=="/>
         </item>
@@ -19,7 +19,7 @@
             <sparkle:version>36</sparkle:version>
             <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/VoiceTale-0.4.11.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.11.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12-beta.1/VoiceTale-0.4.11.dmg" length="19054843" type="application/octet-stream" sparkle:edSignature="joYA65EOYrJm6JQavWPVWV3mCOQbqJapgJFBYF9InUiqOTgbL40YrSjAzz71TGMf5pBGCF+qnZDEHZ/4HKPrCQ=="/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/VoiceTale-0.4.10.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.10.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12-beta.1/VoiceTale-0.4.10.dmg" length="19051632" type="application/octet-stream" sparkle:edSignature="lJ4AE2IfeONHt6MQrWkWjgb1Vb192aNARsrHAEXKP2THAHC9+d+XxgOSSYqoG5VaTlga07KLGgknxrtHsV1mBQ=="/>
         </item>
     </channel>
