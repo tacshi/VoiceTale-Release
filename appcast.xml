@@ -3,19 +3,28 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.4.10</title>
+            <pubDate>Sun, 01 Feb 2026 18:06:33 +1300</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/VoiceTale-0.4.10.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-0.4.10.dmg" length="19051632" type="application/octet-stream" sparkle:edSignature="lJ4AE2IfeONHt6MQrWkWjgb1Vb192aNARsrHAEXKP2THAHC9+d+XxgOSSYqoG5VaTlga07KLGgknxrtHsV1mBQ=="/>
+        </item>
+        <item>
             <title>0.4.9</title>
             <pubDate>Sun, 01 Feb 2026 17:31:39 +1300</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/VoiceTale-0.4.9.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-0.4.9.zip" length="16425876" type="application/octet-stream" sparkle:edSignature="lNHG/kLxki+6bDvIPt4gWC+WQgeEnYPfy43OOp0iYooA/EwgKL3+69gOmfuaRH46Wd798maAJCXDqOACAxEVBw=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-0.4.9.zip" length="16425876" type="application/octet-stream" sparkle:edSignature="lNHG/kLxki+6bDvIPt4gWC+WQgeEnYPfy43OOp0iYooA/EwgKL3+69gOmfuaRH46Wd798maAJCXDqOACAxEVBw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-Release/main/VoiceTale32-30.delta" sparkle:deltaFrom="30" length="1445126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q+KC7+Vcj1eY2Co1dNRr606joQLht7SCceYtcxW9JRrd6/3aecvxbseKSNMs3kl0XU9DpzHmTdp9W0rAp7kpAw=="/>
-                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-Release/main/VoiceTale32-29.delta" sparkle:deltaFrom="29" length="2945626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dKfBagktKF/qsHZ9PPXZyIXBheVHa31LU9DoR4vf5/BgFwOXKX5wmpWYiRoGTD0gab1s68s9UTIJIIR1SP+LDQ=="/>
-                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-Release/main/VoiceTale32-28.delta" sparkle:deltaFrom="28" length="4094326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gG515pjERWFQZXCNskyy9Kk7m42PAKiJnSMyYdLAF5CoaMET3BvM+2uWwM/66oOgzq3rxOIzGBakwYd8Puu/Aw=="/>
-                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-Release/main/VoiceTale32-27.delta" sparkle:deltaFrom="27" length="4332434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="grG3zZNzJ6aGQmfuS7QyN1wbAHrT8TlnzPmNhBWAG0yku7sMG5E3ETNuZHTYRZn8XdgJFysE3P4qvWXbTEHTDQ=="/>
-                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-Release/main/VoiceTale32-26.delta" sparkle:deltaFrom="26" length="4327766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RhdWtUA3DIqvRx4sq9z+SzP6GpRY6Bu7MlaJwove7IiQP1McqeL3/2GXnq9cHvDPt2P0PQnw2C4Ve56f1u5+AQ=="/>
+                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-Release/main/VoiceTale32-30.delta" sparkle:deltaFrom="30" length="1445126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q+KC7+Vcj1eY2Co1dNRr606joQLht7SCceYtcxW9JRrd6/3aecvxbseKSNMs3kl0XU9DpzHmTdp9W0rAp7kpAw=="/>
+                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-Release/main/VoiceTale32-29.delta" sparkle:deltaFrom="29" length="2945626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dKfBagktKF/qsHZ9PPXZyIXBheVHa31LU9DoR4vf5/BgFwOXKX5wmpWYiRoGTD0gab1s68s9UTIJIIR1SP+LDQ=="/>
+                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-Release/main/VoiceTale32-28.delta" sparkle:deltaFrom="28" length="4094326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gG515pjERWFQZXCNskyy9Kk7m42PAKiJnSMyYdLAF5CoaMET3BvM+2uWwM/66oOgzq3rxOIzGBakwYd8Puu/Aw=="/>
+                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-Release/main/VoiceTale32-27.delta" sparkle:deltaFrom="27" length="4332434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="grG3zZNzJ6aGQmfuS7QyN1wbAHrT8TlnzPmNhBWAG0yku7sMG5E3ETNuZHTYRZn8XdgJFysE3P4qvWXbTEHTDQ=="/>
+                <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-Release/main/VoiceTale32-26.delta" sparkle:deltaFrom="26" length="4327766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RhdWtUA3DIqvRx4sq9z+SzP6GpRY6Bu7MlaJwove7IiQP1McqeL3/2GXnq9cHvDPt2P0PQnw2C4Ve56f1u5+AQ=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -24,28 +33,13 @@
             <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-0.4.8.zip" length="16421170" type="application/octet-stream" sparkle:edSignature="3fZkxzR4NBi3CregOMN9tIF6KB9SgrQSVkIs5OGIFOAHGw6KG+cOQDAsUDawlOI7J4MqGa/IG+JnCn4+/7TyBA=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.10/VoiceTale-0.4.8.zip" length="16421170" type="application/octet-stream" sparkle:edSignature="3fZkxzR4NBi3CregOMN9tIF6KB9SgrQSVkIs5OGIFOAHGw6KG+cOQDAsUDawlOI7J4MqGa/IG+JnCn4+/7TyBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://voicetale.tty0.top/VoiceTale30-29.delta" sparkle:deltaFrom="29" length="2883806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="01htdOLkIooR+6TEui87t/VhjX0xqYZAylqx0qw8fuoc1aRgjpXAmr/4/5qUXD9VajMUdn3LqlgUK0+7XuQqDw=="/>
                 <enclosure url="https://voicetale.tty0.top/VoiceTale30-28.delta" sparkle:deltaFrom="28" length="4101590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oUPuQGcgblbJ6ru/cytIGKJfPH10aN1URMRtVlk1nNtMIqkA7SZ8+0ikhyBlrsqTrdILwgKQ1dNr2/Mjo8B7Bg=="/>
                 <enclosure url="https://voicetale.tty0.top/VoiceTale30-27.delta" sparkle:deltaFrom="27" length="4309118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+Vj9Bh8NcOBMwWushi11IyCrfBV7KTtL/QstApG2f8krkvPKbmBHSQVQNu1d2j8QDYLfsdwST2d3K0ecpqOkDw=="/>
                 <enclosure url="https://voicetale.tty0.top/VoiceTale30-26.delta" sparkle:deltaFrom="26" length="4335846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U2Nb/5aWPM2lu/f5Qs/Qml3m6eFkqfo3DKN4WgZ+larnX5ILq7muNA8buSsiQi7LrNvu2ZgLrree8qs5Q8HABA=="/>
                 <enclosure url="https://voicetale.tty0.top/VoiceTale30-25.delta" sparkle:deltaFrom="25" length="4338942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uFrmgDfA02ysdiqM90c3YgG9dk9uim4CLukw/k7L5+t8p6IB47kqEMFWbpu8ZYJN1YujdoCdx5elWqDdl/e6Dw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.4.7</title>
-            <pubDate>Sun, 01 Feb 2026 15:06:40 +1300</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.9/VoiceTale-0.4.7.zip" length="16055638" type="application/octet-stream" sparkle:edSignature="nr4DeEFM8d6hPhQrlLVwjF/N+NEq72L81nlleAoHnonaRDkrPS2sqNwzOcnqtK8432OeEu85E4C6yclHX2yeBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://voicetale.tty0.top/VoiceTale29-28.delta" sparkle:deltaFrom="28" length="3119718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5KIunzJ32Esdaup0OyNzGzgRT5i4yn9jaFH/DzUms1icBzD7LKN8MeOHQBFQeaWu5i96stMi09VG5/gnt46UBQ=="/>
-                <enclosure url="https://voicetale.tty0.top/VoiceTale29-27.delta" sparkle:deltaFrom="27" length="3412622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dbMBV5TrpyjeyhGNXvL/WsCog8wVGx42iFxEe6t9y+2fMqcB9MbBiAQ5t9h9lAoIf4yABmAZFAQdFtsd6ie9BQ=="/>
-                <enclosure url="https://voicetale.tty0.top/VoiceTale29-26.delta" sparkle:deltaFrom="26" length="3431010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6SdGV0dMTPYiCzdLbWs8uTnuN7rX118IBbkNhONsDBMxj2zpdWY//PXdEITrI2w5mg3u1AiAGAR6hAeqRVyYCg=="/>
-                <enclosure url="https://voicetale.tty0.top/VoiceTale29-25.delta" sparkle:deltaFrom="25" length="3460114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UOSzB6YxJG/I2gkoHFmN4sxbAgWWh8wuzjgt3hKmjq9dvagfvNYwIfMukaxDkJI2UJEaAC2IMA0PB9uT3kVFDQ=="/>
-                <enclosure url="https://voicetale.tty0.top/VoiceTale29-24.delta" sparkle:deltaFrom="24" length="3567962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uPwWX5DVjR3pFwZpi46WRXmEneuNKmoTP4O856VJi39luCxBzJBt+l6TwqxmpCy1tP2bqw6cPucbqKfLTdl6DQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
