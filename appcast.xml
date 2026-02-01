@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.4.12</title>
+            <pubDate>Sun, 01 Feb 2026 19:31:07 +1300</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.4.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.12.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.4.12</h2><ul><li>Add feedback helper for issue reporting and documentation access; enhance release script with GitHub release creation and release notes generation</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12/VoiceTale-0.4.12.dmg" length="19055383" type="application/octet-stream" sparkle:edSignature="VEyHfYP6zuSKL5yrWzq0k97fajq0XSJPIE5jFxcw/BPj89brm9zVRqfV09YqJ3l5h6C9SC0SGqK8lHPr2UQgDA=="/>
+        </item>
+        <item>
             <title>0.4.12-beta.3</title>
             <sparkle:channel>beta</sparkle:channel>
             <pubDate>Sun, 01 Feb 2026 19:25:35 +1300</pubDate>
@@ -11,18 +21,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.12-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.4.12-beta.3</h2><ul><li>Add thread-safe lock for beta updates preference and clarify appcast generation comment</li><li>Enhance release notes HTML structure and escape entities to prevent XSS vulnerabilities</li><li>Add feedback helper for issue reporting and documentation access; enhance release script with GitHub release creation and release notes generation</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12-beta.3/VoiceTale-0.4.12-beta.3.dmg" length="19055403" type="application/octet-stream" sparkle:edSignature="x8qQm/uB6WKLAW6ZE0Yy1pTz+lAq5c6MvqJBmf7pn0AuzbW7TZh1cGrS/2/nyT8AYvrwZ3pacJxMSuKmL37iBQ=="/>
-        </item>
-        <item>
-            <title>0.4.12-beta.2</title>
-            <sparkle:channel>beta</sparkle:channel>
-            <pubDate>Sun, 01 Feb 2026 19:10:16 +1300</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>0.4.12-beta.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.12-beta.2.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.4.12-beta.2</h2><ul><li>Add tests for beta updates settings and improve UpdaterManager's handling of beta updates</li><li>Fix release.sh to generate correct release-notes/ URLs for GitHub Pages</li><li>Add feedback helper for issue reporting and documentation access; enhance release script with GitHub release creation and release notes generation</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12-beta.3/VoiceTale-0.4.12-beta.2.dmg" length="19055379" type="application/octet-stream" sparkle:edSignature="AeVU3FLUyMvnsgz658uQz60GMz2yGQY3B1X89CFwmmkSj/2Dm92FCw0EeTLSglGA/YyUrjJZvhHHW0bFb79RBA=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12/VoiceTale-0.4.12-beta.3.dmg" length="19055403" type="application/octet-stream" sparkle:edSignature="x8qQm/uB6WKLAW6ZE0Yy1pTz+lAq5c6MvqJBmf7pn0AuzbW7TZh1cGrS/2/nyT8AYvrwZ3pacJxMSuKmL37iBQ=="/>
         </item>
         <item>
             <title>0.4.11</title>
@@ -31,7 +30,7 @@
             <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.11.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12-beta.3/VoiceTale-0.4.11.dmg" length="19054843" type="application/octet-stream" sparkle:edSignature="joYA65EOYrJm6JQavWPVWV3mCOQbqJapgJFBYF9InUiqOTgbL40YrSjAzz71TGMf5pBGCF+qnZDEHZ/4HKPrCQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12/VoiceTale-0.4.11.dmg" length="19054843" type="application/octet-stream" sparkle:edSignature="joYA65EOYrJm6JQavWPVWV3mCOQbqJapgJFBYF9InUiqOTgbL40YrSjAzz71TGMf5pBGCF+qnZDEHZ/4HKPrCQ=="/>
         </item>
         <item>
             <title>0.4.10</title>
@@ -40,7 +39,7 @@
             <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.10.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12-beta.3/VoiceTale-0.4.10.dmg" length="19051632" type="application/octet-stream" sparkle:edSignature="lJ4AE2IfeONHt6MQrWkWjgb1Vb192aNARsrHAEXKP2THAHC9+d+XxgOSSYqoG5VaTlga07KLGgknxrtHsV1mBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.12/VoiceTale-0.4.10.dmg" length="19051632" type="application/octet-stream" sparkle:edSignature="lJ4AE2IfeONHt6MQrWkWjgb1Vb192aNARsrHAEXKP2THAHC9+d+XxgOSSYqoG5VaTlga07KLGgknxrtHsV1mBQ=="/>
         </item>
     </channel>
 </rss>
