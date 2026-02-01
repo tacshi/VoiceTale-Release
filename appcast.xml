@@ -9,6 +9,7 @@
             <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/release-notes/VoiceTale-0.4.11.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.4.11</h2><ul><li>Refactor release script to manage DMGs more effectively</li><li>Add beta update preference and support in settings</li><li>Improve appcast structure and release notes</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.11/VoiceTale-0.4.11.dmg" length="19054843" type="application/octet-stream" sparkle:edSignature="joYA65EOYrJm6JQavWPVWV3mCOQbqJapgJFBYF9InUiqOTgbL40YrSjAzz71TGMf5pBGCF+qnZDEHZ/4HKPrCQ=="/>
         </item>
         <item>
@@ -18,6 +19,7 @@
             <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/tacshi/VoiceTale-Release/main/release-notes/VoiceTale-0.4.10.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.4.10</h2><ul><li>Switch to DMG packaging format</li><li>Improve release automation</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.4.11/VoiceTale-0.4.10.dmg" length="19051632" type="application/octet-stream" sparkle:edSignature="lJ4AE2IfeONHt6MQrWkWjgb1Vb192aNARsrHAEXKP2THAHC9+d+XxgOSSYqoG5VaTlga07KLGgknxrtHsV1mBQ=="/>
         </item>
         <item>
