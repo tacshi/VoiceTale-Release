@@ -46,7 +46,7 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/tacshi/VoiceTale-Release/releases) page
+1. Download the latest `.dmg` from the [Releases](https://github.com/tacshi/VoiceTale-Release/releases) page
 2. Open the DMG file and drag VoiceTale to your Applications folder
 3. Launch VoiceTale and grant the required permissions (Microphone, Screen Recording for system audio)
 
