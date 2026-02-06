@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.5.5</title>
+            <pubDate>Fri, 06 Feb 2026 19:39:55 +1300</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.5.5.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.5.5</h2><ul><li>Refactor DictationEmptyStateView to dynamically display audio source icons; update supportedLanguages to filter installed locales for UI</li><li>Add Xcode schemes for VoiceTale and VoiceTaleUI; refactor VoiceTypingSidebar for improved provider selection and duration settings</li><li>Add keyboard shortcuts for navigation and options sidebar; stop voice typing session on mode change (#119)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.5/VoiceTale-0.5.5.dmg" length="19356303" type="application/octet-stream" sparkle:edSignature="0pH4Dyn6g8OLC46KIlOhxTBVSOCvWLxxTI4ZNfZ4mZ9hTY+Ynmbu1sP0mg82+B5saZAx+cSGaBXTMWEqODALAQ=="/>
+        </item>
+        <item>
             <title>0.5.4</title>
             <pubDate>Fri, 06 Feb 2026 17:33:00 +1300</pubDate>
             <sparkle:version>56</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.5.4.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.5.4</h2><ul><li>Add keyboard shortcuts for navigation and options sidebar; stop voice typing session on mode change</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.4/VoiceTale-0.5.4.dmg" length="19357677" type="application/octet-stream" sparkle:edSignature="EAuG1LKm5+kAVMgfHzzmyZeWumuaCxELY52nJtFyrVa0hBIR4JBUCSdknVbbbgKVwi+rEsNFbrNezY+AewOxDQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.5/VoiceTale-0.5.4.dmg" length="19357677" type="application/octet-stream" sparkle:edSignature="EAuG1LKm5+kAVMgfHzzmyZeWumuaCxELY52nJtFyrVa0hBIR4JBUCSdknVbbbgKVwi+rEsNFbrNezY+AewOxDQ=="/>
         </item>
         <item>
             <title>0.5.3</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.5.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.5.3</h2><ul><li>Remove Voice Typing settings tab and implement Push-to-Talk prompt editor view</li><li>Refactor navigation sidebar items and add Caption settings tab; update Transcription settings structure</li><li>Add Voice Typing mode and sidebar; refactor navigation and settings</li><li>Refactor transcription mode display names and implement navigation sidebar</li><li>Add HTML escaping function to prevent XSS in release notes</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.4/VoiceTale-0.5.3.dmg" length="19351010" type="application/octet-stream" sparkle:edSignature="+AkohKhTt9uua+P/2gymK3enduO/DgOPQqXM5vgjJB5VdjS4+3yoNSEiyirWfSDK915argdAfxYK1PRhsw7rDw=="/>
-        </item>
-        <item>
-            <title>0.5.2</title>
-            <pubDate>Fri, 06 Feb 2026 14:34:21 +1300</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.5.2.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.5.2</h2><ul><li>Add translation toggle to CaptionOverlayView and improve mouse event handling</li><li>Update Soniox model to v4 and enhance error parsing for improved handling</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.4/VoiceTale-0.5.2.dmg" length="19291842" type="application/octet-stream" sparkle:edSignature="fVHHzSQR1Gk5LGa2GzckgrQ3MnB7O++ljIiYh3HIqC1c/Wi1tmri4xFU/h9zIqDaG1EuBLBGkGin6YryKAOjCw=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.5/VoiceTale-0.5.3.dmg" length="19351010" type="application/octet-stream" sparkle:edSignature="+AkohKhTt9uua+P/2gymK3enduO/DgOPQqXM5vgjJB5VdjS4+3yoNSEiyirWfSDK915argdAfxYK1PRhsw7rDw=="/>
         </item>
         <item>
             <title>0.4.12-beta.3</title>
@@ -41,7 +41,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.4.12-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.4.12-beta.3</h2><ul><li>Add thread-safe lock for beta updates preference and clarify appcast generation comment</li><li>Enhance release notes HTML structure and escape entities to prevent XSS vulnerabilities</li><li>Add feedback helper for issue reporting and documentation access; enhance release script with GitHub release creation and release notes generation</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.4/VoiceTale-0.4.12-beta.3.dmg" length="19055403" type="application/octet-stream" sparkle:edSignature="x8qQm/uB6WKLAW6ZE0Yy1pTz+lAq5c6MvqJBmf7pn0AuzbW7TZh1cGrS/2/nyT8AYvrwZ3pacJxMSuKmL37iBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.5.5/VoiceTale-0.4.12-beta.3.dmg" length="19055403" type="application/octet-stream" sparkle:edSignature="x8qQm/uB6WKLAW6ZE0Yy1pTz+lAq5c6MvqJBmf7pn0AuzbW7TZh1cGrS/2/nyT8AYvrwZ3pacJxMSuKmL37iBQ=="/>
         </item>
     </channel>
 </rss>
