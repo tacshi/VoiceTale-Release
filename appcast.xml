@@ -3,6 +3,17 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.6.0-beta.3</title>
+            <sparkle:channel>beta</sparkle:channel>
+            <pubDate>Sat, 07 Feb 2026 19:39:22 +1300</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.6.0-beta.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.3/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
+        </item>
+        <item>
             <title>0.6.0-beta.2</title>
             <sparkle:channel>beta</sparkle:channel>
             <pubDate>Sat, 07 Feb 2026 16:00:10 +1300</pubDate>
@@ -11,18 +22,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.2.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.6.0-beta.2</h2><ul><li>Add OpenAIOAuth tests and enhance TranscriptionSidebar for OpenAI OAuth model selection</li><li>Enhance prompts for speech processing templates</li><li>Support OpenAI OAuth</li><li>Rename LLM Post-Processing to Auto-Refine in options section</li><li>Clear voice typing settings error after 5 seconds</li><li>Refactor update state synchronization in UpdaterManager</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.2/VoiceTale-0.6.0-beta.2.dmg" length="19969297" type="application/octet-stream" sparkle:edSignature="7QsR4emx20FLSOCDy5QyCDAMdCMbIegj+HS+KsspFK2ulCtwDlPnZxVwQy8S+g9ZQijzbBlWMaw1JLJMzokqAg=="/>
-        </item>
-        <item>
-            <title>0.6.0-beta.1</title>
-            <sparkle:channel>beta</sparkle:channel>
-            <pubDate>Sat, 07 Feb 2026 13:10:33 +1300</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>0.6.0-beta.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.1.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.6.0-beta.1</h2><ul><li>Implement Mistral Voxtral provider for real-time speech recognition</li><li>Add keyboard shortcuts for navigation and options sidebar; stop voice typing session on mode change (#119)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.2/VoiceTale-0.6.0-beta.1.dmg" length="19660720" type="application/octet-stream" sparkle:edSignature="INyG5t/1SLS4Nb6J9e9H67mz+X4i5uXE/2uxTe6Q9n6lsjV2EgCOW2Fk3mkH2K9/79zy9H/jHJT5wVW1zGyPDA=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.3/VoiceTale-0.6.0-beta.2.dmg" length="19969297" type="application/octet-stream" sparkle:edSignature="7QsR4emx20FLSOCDy5QyCDAMdCMbIegj+HS+KsspFK2ulCtwDlPnZxVwQy8S+g9ZQijzbBlWMaw1JLJMzokqAg=="/>
         </item>
         <item>
             <title>0.5.5</title>
@@ -32,7 +32,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.5.5.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.5.5</h2><ul><li>Refactor DictationEmptyStateView to dynamically display audio source icons; update supportedLanguages to filter installed locales for UI</li><li>Add Xcode schemes for VoiceTale and VoiceTaleUI; refactor VoiceTypingSidebar for improved provider selection and duration settings</li><li>Add keyboard shortcuts for navigation and options sidebar; stop voice typing session on mode change (#119)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.2/VoiceTale-0.5.5.dmg" length="19356303" type="application/octet-stream" sparkle:edSignature="0pH4Dyn6g8OLC46KIlOhxTBVSOCvWLxxTI4ZNfZ4mZ9hTY+Ynmbu1sP0mg82+B5saZAx+cSGaBXTMWEqODALAQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.3/VoiceTale-0.5.5.dmg" length="19356303" type="application/octet-stream" sparkle:edSignature="0pH4Dyn6g8OLC46KIlOhxTBVSOCvWLxxTI4ZNfZ4mZ9hTY+Ynmbu1sP0mg82+B5saZAx+cSGaBXTMWEqODALAQ=="/>
         </item>
         <item>
             <title>0.5.4</title>
@@ -42,7 +42,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.5.4.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.5.4</h2><ul><li>Add keyboard shortcuts for navigation and options sidebar; stop voice typing session on mode change</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.2/VoiceTale-0.5.4.dmg" length="19357677" type="application/octet-stream" sparkle:edSignature="EAuG1LKm5+kAVMgfHzzmyZeWumuaCxELY52nJtFyrVa0hBIR4JBUCSdknVbbbgKVwi+rEsNFbrNezY+AewOxDQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.3/VoiceTale-0.5.4.dmg" length="19357677" type="application/octet-stream" sparkle:edSignature="EAuG1LKm5+kAVMgfHzzmyZeWumuaCxELY52nJtFyrVa0hBIR4JBUCSdknVbbbgKVwi+rEsNFbrNezY+AewOxDQ=="/>
         </item>
     </channel>
 </rss>
