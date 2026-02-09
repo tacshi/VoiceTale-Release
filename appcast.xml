@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.7.3</title>
+            <pubDate>Mon, 09 Feb 2026 21:23:46 +1300</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.7.3.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.7.3</h2><ul><li>Rename `src` and `tgt` prefixes to `source` and `translation` for improved clarity</li><li>Implement speaker turn highlighting and refactor sentence highlighting to use sets for multi-sentence selection</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.3/VoiceTale-0.7.3.dmg" length="20400944" type="application/octet-stream" sparkle:edSignature="hqFW9Wq8oeweh+1qLavCXGsjGwhKBh96NajDwIBimilb/LEbNIL27V8Sn9uK8QvkODWPxHwZWkplwXKcONaOCQ=="/>
+        </item>
+        <item>
             <title>0.7.2</title>
             <pubDate>Mon, 09 Feb 2026 02:02:33 +1300</pubDate>
             <sparkle:version>65</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.7.2.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.7.2</h2><ul><li>Improve transcription timing by adding minimum wait for stop-time callbacks and processing main run loop</li><li>Enhance transcription capabilities with dual audio source support</li><li>Remove deprecated UserDefaults.synchronize() usage and update documentation (#126)</li><li>Add localization support for various components and improve FFmpeg installation instructions (#124)</li><li>Add localization support across the application (#123)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.2/VoiceTale-0.7.2.dmg" length="20373863" type="application/octet-stream" sparkle:edSignature="0ckmwkbuPM+DrQ4LPosoovor1WeP4xBJgLkTnaoXBXmzfMGr6/XtxwbMraDGbT8v30a4wcqTYUD0pYNnGJfmAQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.3/VoiceTale-0.7.2.dmg" length="20373863" type="application/octet-stream" sparkle:edSignature="0ckmwkbuPM+DrQ4LPosoovor1WeP4xBJgLkTnaoXBXmzfMGr6/XtxwbMraDGbT8v30a4wcqTYUD0pYNnGJfmAQ=="/>
         </item>
         <item>
             <title>0.7.1</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.7.1.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.7.1</h2><ul><li>Add tests for Push-to-Talk feature and enhance localization strings</li><li>Add tests for realtime client disconnect behavior and enhance transcription manager</li><li>Remove deprecated UserDefaults.synchronize() usage and update documentation (#126)</li><li>Add localization support for various components and improve FFmpeg installation instructions (#124)</li><li>Add localization support across the application (#123)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.2/VoiceTale-0.7.1.dmg" length="20288218" type="application/octet-stream" sparkle:edSignature="YnI/O/du93gJBjSwtDDkdchet9wvT5FhgD2OUjcf15IgsNEKshYptJf1aVSfD1SzHLSastu8mUiD644CsYOnDA=="/>
-        </item>
-        <item>
-            <title>0.7.0</title>
-            <pubDate>Sun, 08 Feb 2026 15:18:41 +1300</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.7.0.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.7.0</h2><ul><li>Enhance OpenAIOAuthProvider to include ChatGPT-Account-Id in request headers</li><li>Add localized strings for Deepgram, OpenAI, OpenRouter, and DeepL features</li><li>Add support for DeepL translation and enhance OpenAI OAuth settings</li><li>Update options sidebar ideal width to improve layout consistency</li><li>Refactor BatchTranslationService to use dynamic batch size based on provider; add LLMModelPicker for streamlined model selection in VoiceTypingSidebar and TranscriptionSidebar</li><li>Add global keyboard shortcuts for clear transcription and toggle overlay in MenuBarView</li><li>Refactor MainView to use AppStorage for sidebar visibility and update help text with keyboard shortcuts</li><li>Enhance Streaming Translation Service with Sentence-Level Caching and Improved Diarization Handling</li><li>Add sentence-level click-to-highlight in bilingual dictation view</li><li>Add .worktrees/ to .gitignore</li><li>Remove deprecated UserDefaults.synchronize() usage and update documentation (#126)</li><li>Add localization support for various components and improve FFmpeg installation instructions (#124)</li><li>Add localization support across the application (#123)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.2/VoiceTale-0.7.0.dmg" length="20267037" type="application/octet-stream" sparkle:edSignature="1xAYVEKMoQhtVwfUGwYIbEH4W3hlqZj2huZb0ZwptYCaMsDT5vPRgdZgWtPamLYdzR3yN4/XpNu6Py2BlZzxBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.3/VoiceTale-0.7.1.dmg" length="20288218" type="application/octet-stream" sparkle:edSignature="YnI/O/du93gJBjSwtDDkdchet9wvT5FhgD2OUjcf15IgsNEKshYptJf1aVSfD1SzHLSastu8mUiD644CsYOnDA=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
@@ -41,7 +41,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.2/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.3/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
         </item>
     </channel>
 </rss>
