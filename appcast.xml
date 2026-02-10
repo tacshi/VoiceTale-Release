@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.8.4</title>
+            <pubDate>Wed, 11 Feb 2026 00:13:00 +1300</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.4.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.8.4</h2><ul><li>Enhance selection monitoring to ignore multi-click selections in file browser contexts</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.4/VoiceTale-0.8.4.dmg" length="20883235" type="application/octet-stream" sparkle:edSignature="qZU5wPJQNqwdWI2lgZpoG9H77tLt20FytVivJf7maJU2Ys+fZTS+HnpDBcHh4Py6fTKmPyWW6Cmu/tP7qCD8BA=="/>
+        </item>
+        <item>
             <title>0.8.3</title>
             <pubDate>Tue, 10 Feb 2026 23:02:23 +1300</pubDate>
             <sparkle:version>71</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.8.3</h2><ul><li>Add web search functionality to selection bar with multiple search engines</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.3/VoiceTale-0.8.3.dmg" length="20882018" type="application/octet-stream" sparkle:edSignature="AJLSXyAU3Rh6xQ5Qf9hXuDoy4r8Bj5GLx+st1t2AEkqC9OLxsytALlRkuASp7Yfi8P42b7jEg3EKMxBKcRhTAw=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.4/VoiceTale-0.8.3.dmg" length="20882018" type="application/octet-stream" sparkle:edSignature="AJLSXyAU3Rh6xQ5Qf9hXuDoy4r8Bj5GLx+st1t2AEkqC9OLxsytALlRkuASp7Yfi8P42b7jEg3EKMxBKcRhTAw=="/>
         </item>
         <item>
             <title>0.8.2</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.2.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.8.2</h2><ul><li>Prevent system-wide keyboard issues by using `CGEventSource.privateState` for synthetic events and improve clipboard copy detection reliability with polling</li><li>Use `localizedStandardContains` for search filters and remove the `handleStartStop` function from `DictationSidebar`.</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.3/VoiceTale-0.8.2.dmg" length="20854109" type="application/octet-stream" sparkle:edSignature="K55crNQrlkfDOHs7d1k5kUn36V/jeaaZ+UQ/P45e3fsfZG0hxtqkS4Fi4553Ij4bU6T5DCltsNPQKOOi1xYJCg=="/>
-        </item>
-        <item>
-            <title>0.8.1</title>
-            <pubDate>Tue, 10 Feb 2026 17:54:09 +1300</pubDate>
-            <sparkle:version>69</sparkle:version>
-            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.1.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.8.1</h2><ul><li>Enhance selection monitoring to support multi-click detection and improve text selection logic</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.3/VoiceTale-0.8.1.dmg" length="20857635" type="application/octet-stream" sparkle:edSignature="/fpgc534C0cjySUNhD39fNXaNS63EITZTATP0dMhHzGNjPu/go8uOtVCEQagFReuyZG1ZdpIl8eNauZl1MUHDQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.4/VoiceTale-0.8.2.dmg" length="20854109" type="application/octet-stream" sparkle:edSignature="K55crNQrlkfDOHs7d1k5kUn36V/jeaaZ+UQ/P45e3fsfZG0hxtqkS4Fi4553Ij4bU6T5DCltsNPQKOOi1xYJCg=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
@@ -41,7 +41,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.3/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.4/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
         </item>
     </channel>
 </rss>
