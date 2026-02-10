@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.8.0</title>
+            <pubDate>Tue, 10 Feb 2026 16:33:21 +1300</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.0.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.8.0</h2><ul><li>Add built-in translation and lookup features to Selection Bar</li><li>Add selection bar feature with settings and UI components</li><li>Implement speaker turn highlighting and refactor sentence highlighting to use sets for multi-sentence selection (#130)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.0/VoiceTale-0.8.0.dmg" length="20853812" type="application/octet-stream" sparkle:edSignature="DiH7s4NVvWK1pmT7+33zwlVQwUoy76Pe7jl1yYLqrBtdYva4bzxac6fHgPPi3aa978sXOitapNJVBAW3pgDbAw=="/>
+        </item>
+        <item>
             <title>0.7.4</title>
             <pubDate>Tue, 10 Feb 2026 02:17:45 +1300</pubDate>
             <sparkle:version>67</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.7.4.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.7.4</h2><ul><li>Fix native low confidence hint message and ensure audio level defaults to zero when source is unavailable</li><li>Increase minimum width of options sidebar for improved layout</li><li>Optimize CPU usage</li><li>Refactor file URL handling in TranslationHistoryEntry and ThumbnailStore to avoid file existence checks, simplifying logic and preventing TCC prompts.</li><li>Add native alignment support for bilingual highlighting</li><li>Implement speaker turn highlighting and refactor sentence highlighting to use sets for multi-sentence selection (#130)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.4/VoiceTale-0.7.4.dmg" length="20440457" type="application/octet-stream" sparkle:edSignature="zIgjf3rVPZSTm1w+nckP858APjE4h4f+lNwxtznMcM46RhOkx8WF0lqANoono1masf72pUBBz5X/VZMfXacoDQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.0/VoiceTale-0.7.4.dmg" length="20440457" type="application/octet-stream" sparkle:edSignature="zIgjf3rVPZSTm1w+nckP858APjE4h4f+lNwxtznMcM46RhOkx8WF0lqANoono1masf72pUBBz5X/VZMfXacoDQ=="/>
         </item>
         <item>
             <title>0.7.3</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.7.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.7.3</h2><ul><li>Rename `src` and `tgt` prefixes to `source` and `translation` for improved clarity</li><li>Implement speaker turn highlighting and refactor sentence highlighting to use sets for multi-sentence selection</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.4/VoiceTale-0.7.3.dmg" length="20400944" type="application/octet-stream" sparkle:edSignature="hqFW9Wq8oeweh+1qLavCXGsjGwhKBh96NajDwIBimilb/LEbNIL27V8Sn9uK8QvkODWPxHwZWkplwXKcONaOCQ=="/>
-        </item>
-        <item>
-            <title>0.7.2</title>
-            <pubDate>Mon, 09 Feb 2026 02:02:33 +1300</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.7.2.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.7.2</h2><ul><li>Improve transcription timing by adding minimum wait for stop-time callbacks and processing main run loop</li><li>Enhance transcription capabilities with dual audio source support</li><li>Remove deprecated UserDefaults.synchronize() usage and update documentation (#126)</li><li>Add localization support for various components and improve FFmpeg installation instructions (#124)</li><li>Add localization support across the application (#123)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.4/VoiceTale-0.7.2.dmg" length="20373863" type="application/octet-stream" sparkle:edSignature="0ckmwkbuPM+DrQ4LPosoovor1WeP4xBJgLkTnaoXBXmzfMGr6/XtxwbMraDGbT8v30a4wcqTYUD0pYNnGJfmAQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.0/VoiceTale-0.7.3.dmg" length="20400944" type="application/octet-stream" sparkle:edSignature="hqFW9Wq8oeweh+1qLavCXGsjGwhKBh96NajDwIBimilb/LEbNIL27V8Sn9uK8QvkODWPxHwZWkplwXKcONaOCQ=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
@@ -41,7 +41,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.7.4/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.0/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
         </item>
     </channel>
 </rss>
