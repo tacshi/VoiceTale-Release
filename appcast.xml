@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.8.11</title>
+            <pubDate>Thu, 19 Feb 2026 08:27:22 +0800</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>0.8.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.11.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.8.11</h2><ul><li>Add translation parsing tests and enhance SonioxProvider for mixed-language handling</li><li>Refactor language support for various providers</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.11/VoiceTale-0.8.11.dmg" length="21600102" type="application/octet-stream" sparkle:edSignature="Y6rqLtoVqzpYk6oaH4qi9cpxro+W6ARGj+rNmQYUW72cSQ5FYhmFcbIeXSRBSEyJaD+I/l+KTU63LPLj+7uTAw=="/>
+        </item>
+        <item>
             <title>0.8.10</title>
             <pubDate>Mon, 16 Feb 2026 09:10:25 +0800</pubDate>
             <sparkle:version>78</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.10.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.8.10</h2><ul><li>Update FluidAudio dependency to use the main branch</li><li>Improve string compilation process</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.10/VoiceTale-0.8.10.dmg" length="21440507" type="application/octet-stream" sparkle:edSignature="HaOwiuuVh4pzfToV8R/Lg7MU7czlx3w1uytV+NnSfasRm0BTUMgyyxhoFMAT4G7mJhb+WsCKLJS/iHxFsfZFAA=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.11/VoiceTale-0.8.10.dmg" length="21440507" type="application/octet-stream" sparkle:edSignature="HaOwiuuVh4pzfToV8R/Lg7MU7czlx3w1uytV+NnSfasRm0BTUMgyyxhoFMAT4G7mJhb+WsCKLJS/iHxFsfZFAA=="/>
         </item>
         <item>
             <title>0.8.9</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.9.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.8.9</h2><ul><li>Flush send queue on provider stop</li><li>Disable focus on caption handle buttons</li><li>Add Qwen3 ASR provider and FluidAudio 0.12.1</li><li>Add WebSocketSendQueue and use for provider sends</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.10/VoiceTale-0.8.9.dmg" length="11978123" type="application/octet-stream" sparkle:edSignature="ngcZIG6TidWwyyTYAGGqrB1evZbs3mPQcsl7PjTmedAwIZ9p3haIUUPFzxnly991s9oKHAuxATQRUbtzTlMZCA=="/>
-        </item>
-        <item>
-            <title>0.8.8</title>
-            <pubDate>Thu, 12 Feb 2026 15:53:02 +1300</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>0.8.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.8.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.8.8</h2><ul><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.10/VoiceTale-0.8.8.dmg" length="20928016" type="application/octet-stream" sparkle:edSignature="wgnrf0o1VrWPDOvQbtkSEHZdvFIPPS5OqxyJ5HwV6cZLMEvGVEUw4fAtZ8l3DDozK4MX3Gi8PL3G6H1+CXuOAA=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.11/VoiceTale-0.8.9.dmg" length="11978123" type="application/octet-stream" sparkle:edSignature="ngcZIG6TidWwyyTYAGGqrB1evZbs3mPQcsl7PjTmedAwIZ9p3haIUUPFzxnly991s9oKHAuxATQRUbtzTlMZCA=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
@@ -41,7 +41,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.10/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.11/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
         </item>
     </channel>
 </rss>
