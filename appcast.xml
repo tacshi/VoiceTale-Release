@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.8.13</title>
+            <pubDate>Fri, 20 Feb 2026 21:20:45 +0800</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>0.8.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.13.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.8.13</h2><ul><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.13/VoiceTale-0.8.13.dmg" length="21614558" type="application/octet-stream" sparkle:edSignature="6wiePsZ5qYCHCf3nYK1s2dD9LQWxeuEacNJhijCYtty1Y4/IyuxOBhOje0eME8HmN5YZl5cE7uBp7ZUKGdXBDA=="/>
+        </item>
+        <item>
             <title>0.8.12</title>
             <pubDate>Fri, 20 Feb 2026 15:18:37 +0800</pubDate>
             <sparkle:version>80</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.12.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.8.12</h2><ul><li>Remove deprecated localization entries and streamline Qwen3 ASR model variant handling</li><li>Sort provider dropdown and add i18n for new strings</li><li>Add StreamingAsrManager to Parakeet alongside EOU streaming</li><li>Add Qwen3 ASR model variant support (f32 + int8) with debug logging</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.12/VoiceTale-0.8.12.dmg" length="21607457" type="application/octet-stream" sparkle:edSignature="SR+cyIwbQqLKT1diBb3YBClvzR/PWVYYY5EUxDFv91T2fW8V3ctWfnbjgx2ZQ9IragyYP4QMet1ZVW9M/8rIBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.13/VoiceTale-0.8.12.dmg" length="21607457" type="application/octet-stream" sparkle:edSignature="SR+cyIwbQqLKT1diBb3YBClvzR/PWVYYY5EUxDFv91T2fW8V3ctWfnbjgx2ZQ9IragyYP4QMet1ZVW9M/8rIBQ=="/>
         </item>
         <item>
             <title>0.8.11</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.11.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.8.11</h2><ul><li>Add translation parsing tests and enhance SonioxProvider for mixed-language handling</li><li>Refactor language support for various providers</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.12/VoiceTale-0.8.11.dmg" length="21600102" type="application/octet-stream" sparkle:edSignature="Y6rqLtoVqzpYk6oaH4qi9cpxro+W6ARGj+rNmQYUW72cSQ5FYhmFcbIeXSRBSEyJaD+I/l+KTU63LPLj+7uTAw=="/>
-        </item>
-        <item>
-            <title>0.8.10</title>
-            <pubDate>Mon, 16 Feb 2026 09:10:25 +0800</pubDate>
-            <sparkle:version>78</sparkle:version>
-            <sparkle:shortVersionString>0.8.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.8.10.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.8.10</h2><ul><li>Update FluidAudio dependency to use the main branch</li><li>Improve string compilation process</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.12/VoiceTale-0.8.10.dmg" length="21440507" type="application/octet-stream" sparkle:edSignature="HaOwiuuVh4pzfToV8R/Lg7MU7czlx3w1uytV+NnSfasRm0BTUMgyyxhoFMAT4G7mJhb+WsCKLJS/iHxFsfZFAA=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.13/VoiceTale-0.8.11.dmg" length="21600102" type="application/octet-stream" sparkle:edSignature="Y6rqLtoVqzpYk6oaH4qi9cpxro+W6ARGj+rNmQYUW72cSQ5FYhmFcbIeXSRBSEyJaD+I/l+KTU63LPLj+7uTAw=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
@@ -41,7 +41,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.12/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.8.13/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
         </item>
     </channel>
 </rss>
