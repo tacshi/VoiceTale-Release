@@ -21,7 +21,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.0.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.10.0</h2><ul><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.1/VoiceTale-0.10.0.dmg" length="21751364" type="application/octet-stream" sparkle:edSignature="yt6nCMmrSJgYrigaenYZgvVTw/f0U5ujbGIpREi8Fc7z37vihD/I04BlJMgFoCxjz0ZodZi1E3qGJz+qRBOcDg=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.0/VoiceTale-0.10.0.dmg" length="21751364" type="application/octet-stream" sparkle:edSignature="yt6nCMmrSJgYrigaenYZgvVTw/f0U5ujbGIpREi8Fc7z37vihD/I04BlJMgFoCxjz0ZodZi1E3qGJz+qRBOcDg=="/>
         </item>
         <item>
             <title>0.9.0</title>
@@ -31,7 +31,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.9.0.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.9.0</h2><ul><li>Add .claude to .gitignore</li><li>Add HTTP proxy configuration support</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.1/VoiceTale-0.9.0.dmg" length="21691216" type="application/octet-stream" sparkle:edSignature="ZxSLiJ/iFdf85OnOX3bn6unNMIE1hxcNsEFuCzD64lKb2XcdbnhPN4tGfCs0lr/QibrbBNqzvDCkHLUWuNowAw=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.9.0/VoiceTale-0.9.0.dmg" length="21691216" type="application/octet-stream" sparkle:edSignature="ZxSLiJ/iFdf85OnOX3bn6unNMIE1hxcNsEFuCzD64lKb2XcdbnhPN4tGfCs0lr/QibrbBNqzvDCkHLUWuNowAw=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
@@ -42,7 +42,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.1/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.3/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
         </item>
     </channel>
 </rss>
