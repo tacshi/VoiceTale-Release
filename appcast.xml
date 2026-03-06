@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.10.2</title>
+            <pubDate>Sat, 07 Mar 2026 01:54:53 +0800</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>0.10.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.2.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.10.2</h2><ul><li>Fix Copilot PR review comments</li><li>Persist history thumbnails</li><li>Add app appearance settings</li><li>Fix duplicate string catalog warnings</li><li>Clarify voice typing translation help</li><li>Improve dictation processor and translation guidance</li><li>Refine main window and inspector layout</li><li>Add Soniox onboarding and help docs</li><li>Bump FluidAudio to 0.12.2 (#148)</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.2/VoiceTale-0.10.2.dmg" length="21943908" type="application/octet-stream" sparkle:edSignature="VqKq1472cUapzm8OUMCZMumPSc0n6/i14p2umcVIOPTNc0MvfdzHgGyh4pc/hE0W06GrV+3fdux+vOY3mFydCQ=="/>
+        </item>
+        <item>
             <title>0.10.1</title>
             <sparkle:criticalUpdate sparkle:version="84"/>
             <pubDate>Fri, 06 Mar 2026 21:29:58 +0800</pubDate>
@@ -22,16 +32,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.0.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.10.0</h2><ul><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.0/VoiceTale-0.10.0.dmg" length="21751364" type="application/octet-stream" sparkle:edSignature="yt6nCMmrSJgYrigaenYZgvVTw/f0U5ujbGIpREi8Fc7z37vihD/I04BlJMgFoCxjz0ZodZi1E3qGJz+qRBOcDg=="/>
-        </item>
-        <item>
-            <title>0.9.0</title>
-            <pubDate>Sat, 21 Feb 2026 10:46:35 +0800</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.9.0.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.9.0</h2><ul><li>Add .claude to .gitignore</li><li>Add HTTP proxy configuration support</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.9.0/VoiceTale-0.9.0.dmg" length="21691216" type="application/octet-stream" sparkle:edSignature="ZxSLiJ/iFdf85OnOX3bn6unNMIE1hxcNsEFuCzD64lKb2XcdbnhPN4tGfCs0lr/QibrbBNqzvDCkHLUWuNowAw=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
