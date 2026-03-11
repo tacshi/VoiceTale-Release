@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.10.4</title>
+            <pubDate>Wed, 11 Mar 2026 23:40:48 +0800</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>0.10.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.4.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.10.4</h2><ul><li>Bump FluidAudio to 0.12.2 (#148)</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.4/VoiceTale-0.10.4.dmg" length="22577352" type="application/octet-stream" sparkle:edSignature="azzp3iihg0d0T/eCRmobBk+X3+Xt6S9gC0K1AForQ/FQvMzuKVFxoKAGVtpcnjtpdquV98uEFoZs99Ye7WsuDg=="/>
+        </item>
+        <item>
             <title>0.10.3</title>
             <pubDate>Wed, 11 Mar 2026 21:37:06 +0800</pubDate>
             <sparkle:version>86</sparkle:version>
@@ -21,17 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.2.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.10.2</h2><ul><li>Fix Copilot PR review comments</li><li>Persist history thumbnails</li><li>Add app appearance settings</li><li>Fix duplicate string catalog warnings</li><li>Clarify voice typing translation help</li><li>Improve dictation processor and translation guidance</li><li>Refine main window and inspector layout</li><li>Add Soniox onboarding and help docs</li><li>Bump FluidAudio to 0.12.2 (#148)</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.2/VoiceTale-0.10.2.dmg" length="21943908" type="application/octet-stream" sparkle:edSignature="VqKq1472cUapzm8OUMCZMumPSc0n6/i14p2umcVIOPTNc0MvfdzHgGyh4pc/hE0W06GrV+3fdux+vOY3mFydCQ=="/>
-        </item>
-        <item>
-            <title>0.10.1</title>
-            <sparkle:criticalUpdate sparkle:version="84"/>
-            <pubDate>Fri, 06 Mar 2026 21:29:58 +0800</pubDate>
-            <sparkle:version>84</sparkle:version>
-            <sparkle:shortVersionString>0.10.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.1.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.10.1</h2><ul><li>Bump FluidAudio to 0.12.2</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.1/VoiceTale-0.10.1.dmg" length="21752311" type="application/octet-stream" sparkle:edSignature="sTNhUrA8tQZ3bizZoCecEDCcLJhB39a+tjRvZDbjXrWB8Gh7pTJwGeVxBOJElJd+v6NJm37umAnzmTuEveAKAg=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
