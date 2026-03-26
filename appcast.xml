@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.10.6</title>
+            <pubDate>Fri, 27 Mar 2026 12:01:49 +1300</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>0.10.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.6.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.10.6</h2><ul><li>Upgrade speech providers and build tooling (#153)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.6/VoiceTale-0.10.6.dmg" length="38602892" type="application/octet-stream" sparkle:edSignature="YCRqzpitnOkWR7Xk9fvlIjgVnMdBcgmoRSUyfJdcAzxzerUKW4b6boVcv1McmHhn16obSksEVQX/PJnVZcLwCQ=="/>
+        </item>
+        <item>
             <title>0.10.5</title>
             <pubDate>Sun, 22 Mar 2026 22:29:36 +1300</pubDate>
             <sparkle:version>88</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.4.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.10.4</h2><ul><li>Bump FluidAudio to 0.12.2 (#148)</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.4/VoiceTale-0.10.4.dmg" length="22577352" type="application/octet-stream" sparkle:edSignature="azzp3iihg0d0T/eCRmobBk+X3+Xt6S9gC0K1AForQ/FQvMzuKVFxoKAGVtpcnjtpdquV98uEFoZs99Ye7WsuDg=="/>
-        </item>
-        <item>
-            <title>0.10.3</title>
-            <pubDate>Wed, 11 Mar 2026 21:37:06 +0800</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>0.10.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.3.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.10.3</h2><ul><li>Bump FluidAudio to 0.12.2 (#148)</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.3/VoiceTale-0.10.3.dmg" length="21961632" type="application/octet-stream" sparkle:edSignature="HZh7kFL8QRgXcHGmmUn61bX9q+HcOSsHN+5J0ZG0VUnQbHMPhLjR9QDpPyF5wQ9CJIv6Kip1Nrs2kHcEjAlGCQ=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
