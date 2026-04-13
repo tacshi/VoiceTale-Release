@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.10.7</title>
+            <pubDate>Mon, 13 Apr 2026 18:07:02 +1200</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>0.10.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.7.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.10.7</h2><ul><li>Fix idle CPU churn and move sidebar toggles to title bar (#154)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.7/VoiceTale-0.10.7.dmg" length="38580454" type="application/octet-stream" sparkle:edSignature="J4oMIVPiRkN7qLWk3llHDfsl05bwBm4Vx/aKKcE/OMzhR5cpxA6qJZ+vD0Dzbcr9TG14J3/Sxf3fhN/BPCkHDg=="/>
+        </item>
+        <item>
             <title>0.10.6</title>
             <pubDate>Fri, 27 Mar 2026 12:01:49 +1300</pubDate>
             <sparkle:version>89</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.5.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.10.5</h2><ul><li>Fix Soniox reconnects and translation target validation (#152)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.5/VoiceTale-0.10.5.dmg" length="22621888" type="application/octet-stream" sparkle:edSignature="s5AytS21MeNm0o+voVoTgsn6GDPsIcMwA6/FKsysObBGF/Vw35EK3vQic0Sn7Qpiagp/P1u+tOLCy1Wv8Z6dCg=="/>
-        </item>
-        <item>
-            <title>0.10.4</title>
-            <pubDate>Wed, 11 Mar 2026 23:40:48 +0800</pubDate>
-            <sparkle:version>87</sparkle:version>
-            <sparkle:shortVersionString>0.10.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.4.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.10.4</h2><ul><li>Bump FluidAudio to 0.12.2 (#148)</li><li>Add async test for FFmpeg installation path validation and enhance ffmpeg path detection logic (#145)</li><li>Improve string compilation process (#142)</li><li>Enhance SelectionMonitor to track mouse-down context and improve selection handling; update APIKeySectionWithTest to conditionally show clear key button; refine button styles in ProcessorRow for consistency (#140)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.4/VoiceTale-0.10.4.dmg" length="22577352" type="application/octet-stream" sparkle:edSignature="azzp3iihg0d0T/eCRmobBk+X3+Xt6S9gC0K1AForQ/FQvMzuKVFxoKAGVtpcnjtpdquV98uEFoZs99Ye7WsuDg=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
