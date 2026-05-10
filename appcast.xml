@@ -3,6 +3,17 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.12.1-beta.2</title>
+            <sparkle:channel>beta</sparkle:channel>
+            <pubDate>Mon, 11 May 2026 11:22:37 +1200</pubDate>
+            <sparkle:version>98</sparkle:version>
+            <sparkle:shortVersionString>0.12.1-beta.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.1-beta.2.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.12.1-beta.2</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.1-beta.2/VoiceTale-0.12.1-beta.2.dmg" length="19943152" type="application/octet-stream" sparkle:edSignature="7oJIPdBD30FEVrrRfFD0G4Kzga5J+UH35gI1eEvWjG8i8Ex7d1DFUnOFE2CBMH7TzvjZhYnzql1FKx1LpMisDA=="/>
+        </item>
+        <item>
             <title>0.12.1-beta.1</title>
             <sparkle:channel>beta</sparkle:channel>
             <pubDate>Mon, 11 May 2026 10:36:06 +1200</pubDate>
@@ -12,17 +23,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.1-beta.1.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.12.1-beta.1</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.1-beta.1/VoiceTale-0.12.1-beta.1.dmg" length="19944689" type="application/octet-stream" sparkle:edSignature="tfG9p5Kx6zUQjwFmqCZqY/uU8N6DcwkyY5JpoPckBBQJ8KaJTSJEhIL9CRRoaa59G7A9y9bUIzOyQtkAJfQPBg=="/>
-        </item>
-        <item>
-            <title>0.12.1-beta</title>
-            <sparkle:channel>beta</sparkle:channel>
-            <pubDate>Sun, 10 May 2026 21:44:17 +1200</pubDate>
-            <sparkle:version>96</sparkle:version>
-            <sparkle:shortVersionString>0.12.1-beta</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.1-beta.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.12.1-beta</h2><ul><li>Refactor VoiceTale architecture (#159)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.1-beta/VoiceTale-0.12.1-beta.dmg" length="19901922" type="application/octet-stream" sparkle:edSignature="Upsssf7E1Sp6PEqDtXd2r/a6mZgNaWQ29YyyI9InBu1Cw43HyBzVgl4HEuUQwY+whZbDlGlf8iwlWXKuyfkQAQ=="/>
         </item>
         <item>
             <title>0.12.0</title>
