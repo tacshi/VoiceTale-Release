@@ -3,6 +3,17 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.12.1-beta.1</title>
+            <sparkle:channel>beta</sparkle:channel>
+            <pubDate>Mon, 11 May 2026 10:36:06 +1200</pubDate>
+            <sparkle:version>97</sparkle:version>
+            <sparkle:shortVersionString>0.12.1-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.1-beta.1.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.12.1-beta.1</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.1-beta.1/VoiceTale-0.12.1-beta.1.dmg" length="19944689" type="application/octet-stream" sparkle:edSignature="tfG9p5Kx6zUQjwFmqCZqY/uU8N6DcwkyY5JpoPckBBQJ8KaJTSJEhIL9CRRoaa59G7A9y9bUIzOyQtkAJfQPBg=="/>
+        </item>
+        <item>
             <title>0.12.1-beta</title>
             <sparkle:channel>beta</sparkle:channel>
             <pubDate>Sun, 10 May 2026 21:44:17 +1200</pubDate>
@@ -32,17 +43,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.11.2.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.11.2</h2><ul><li>Fix Soniox WebSocket reconnection stalls (#157)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.11.2/VoiceTale-0.11.2.dmg" length="20043357" type="application/octet-stream" sparkle:edSignature="7wNTn52H0NWb+oF60ysmeMrQmzmz34htrp3BimX5mrnNypDRBSD5d8Z0oeHLPR+fTDZcNEGOgcUXTi08hAYJDQ=="/>
-        </item>
-        <item>
-            <title>0.6.0-beta.3</title>
-            <sparkle:channel>beta</sparkle:channel>
-            <pubDate>Sat, 07 Feb 2026 19:39:22 +1300</pubDate>
-            <sparkle:version>60</sparkle:version>
-            <sparkle:shortVersionString>0.6.0-beta.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.6.0-beta.3.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.6.0-beta.3</h2><ul><li>Add localization support across the application</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.6.0-beta.3/VoiceTale-0.6.0-beta.3.dmg" length="20129690" type="application/octet-stream" sparkle:edSignature="RR3KtPsIsCx2D7k7dKe/6gKu9b7NCgTZnmRuEMdYDX82zJqXV1zJ/EfXmtQzkMq77Cb/ODw0I8PxJXYM1q9xBQ=="/>
         </item>
     </channel>
 </rss>
