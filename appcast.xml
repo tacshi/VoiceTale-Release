@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.11.2</title>
+            <pubDate>Sun, 10 May 2026 15:21:24 +1200</pubDate>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>0.11.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.11.2.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.11.2</h2><ul><li>Fix Soniox WebSocket reconnection stalls (#157)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.11.2/VoiceTale-0.11.2.dmg" length="20043357" type="application/octet-stream" sparkle:edSignature="7wNTn52H0NWb+oF60ysmeMrQmzmz34htrp3BimX5mrnNypDRBSD5d8Z0oeHLPR+fTDZcNEGOgcUXTi08hAYJDQ=="/>
+        </item>
+        <item>
             <title>0.11.1</title>
             <pubDate>Sun, 26 Apr 2026 19:55:15 +1200</pubDate>
             <sparkle:version>92</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.11.0.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.11.0</h2><ul><li>Bug fixes and improvements</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.11.0/VoiceTale-0.11.0.dmg" length="20010099" type="application/octet-stream" sparkle:edSignature="4iV6MSpcRJeg6HiqiHuFe2epsON2jfGzTIgOc3uznOp6dpgkQr6oKotGqi96R7i/jeuBTZU1v2cqZY0heGjGBw=="/>
-        </item>
-        <item>
-            <title>0.10.7</title>
-            <pubDate>Mon, 13 Apr 2026 18:07:02 +1200</pubDate>
-            <sparkle:version>90</sparkle:version>
-            <sparkle:shortVersionString>0.10.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.10.7.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.10.7</h2><ul><li>Fix idle CPU churn and move sidebar toggles to title bar (#154)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.10.7/VoiceTale-0.10.7.dmg" length="38580454" type="application/octet-stream" sparkle:edSignature="J4oMIVPiRkN7qLWk3llHDfsl05bwBm4Vx/aKKcE/OMzhR5cpxA6qJZ+vD0Dzbcr9TG14J3/Sxf3fhN/BPCkHDg=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
