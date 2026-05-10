@@ -3,6 +3,17 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.12.1-beta</title>
+            <sparkle:channel>beta</sparkle:channel>
+            <pubDate>Sun, 10 May 2026 21:44:17 +1200</pubDate>
+            <sparkle:version>96</sparkle:version>
+            <sparkle:shortVersionString>0.12.1-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.1-beta.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.12.1-beta</h2><ul><li>Refactor VoiceTale architecture (#159)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.1-beta/VoiceTale-0.12.1-beta.dmg" length="19901922" type="application/octet-stream" sparkle:edSignature="Upsssf7E1Sp6PEqDtXd2r/a6mZgNaWQ29YyyI9InBu1Cw43HyBzVgl4HEuUQwY+whZbDlGlf8iwlWXKuyfkQAQ=="/>
+        </item>
+        <item>
             <title>0.12.0</title>
             <pubDate>Sun, 10 May 2026 18:52:36 +1200</pubDate>
             <sparkle:version>94</sparkle:version>
@@ -21,16 +32,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.11.2.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.11.2</h2><ul><li>Fix Soniox WebSocket reconnection stalls (#157)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.11.2/VoiceTale-0.11.2.dmg" length="20043357" type="application/octet-stream" sparkle:edSignature="7wNTn52H0NWb+oF60ysmeMrQmzmz34htrp3BimX5mrnNypDRBSD5d8Z0oeHLPR+fTDZcNEGOgcUXTi08hAYJDQ=="/>
-        </item>
-        <item>
-            <title>0.11.1</title>
-            <pubDate>Sun, 26 Apr 2026 19:55:15 +1200</pubDate>
-            <sparkle:version>92</sparkle:version>
-            <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.11.1.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.11.1</h2><ul><li>Fix provider picker availability (#156)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.11.1/VoiceTale-0.11.1.dmg" length="20041032" type="application/octet-stream" sparkle:edSignature="3oMoVuTf8UgXKZjtfmfvj0rT3r1CGkKDKaTvrTbr/oI2r8t5gJHJ2LoRstmR9RSI8AlgNf6ICckNOXDUsWT4DQ=="/>
         </item>
         <item>
             <title>0.6.0-beta.3</title>
