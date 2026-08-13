@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.13.1</title>
+            <pubDate>Fri, 14 Aug 2026 01:37:26 +1200</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.1.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.13.1</h2><ul><li>feat: improve long-form speech synthesis (#168)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.1/VoiceTale-0.13.1.dmg" length="23404552" type="application/octet-stream" sparkle:edSignature="gVAaUGZDyIKFC2rppVlqob//CcIV9mrICQKQu8O0tUaA1+KazXeLUa9ATrnZmQobcOJ9dvC0AtayHhUs/fzJAg=="/>
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Thu, 13 Aug 2026 22:18:33 +1200</pubDate>
             <sparkle:version>103</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.12.3</h2><ul><li>Bump fluidaudio, update Soniox API to v5 (#166)</li><li>Bump fluidaudio (#165)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.3/VoiceTale-0.12.3.dmg" length="11229059" type="application/octet-stream" sparkle:edSignature="drkjYqnTdJjN1yEDuM+ioxPbSFhrIOt8MEMvK/N6xwzc4oPjiwNMUaEWfslYkXSZpm1f2ckvKol7jb+Nx/pDAw=="/>
-        </item>
-        <item>
-            <title>0.12.2</title>
-            <pubDate>Sat, 16 May 2026 12:34:00 +1200</pubDate>
-            <sparkle:version>101</sparkle:version>
-            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.2.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.12.2</h2><ul><li>Add Fn push-to-talk key</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.2/VoiceTale-0.12.2.dmg" length="19937901" type="application/octet-stream" sparkle:edSignature="ic6e+fJo3FptMcXuN6y2DrWdvgGVsaaj+zFdOHk3/wKXKqnmNZZPwqA6OqU7lt/+pURMNvCfuUETgZ66jw90Dw=="/>
         </item>
         <item>
             <title>0.12.1-beta.3</title>
