@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.13.0</title>
+            <pubDate>Thu, 13 Aug 2026 22:18:33 +1200</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.0.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.13.0</h2><ul><li>TTS (#167)</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.0/VoiceTale-0.13.0.dmg" length="23045844" type="application/octet-stream" sparkle:edSignature="erH9WLze91r2nbd29edqmyk2AE4sKXptDDlDY1kLxh1cUx+Vav9zaCXu1eLuKZf0mXJ9qLsD3GFCI1NeInV7DA=="/>
+        </item>
+        <item>
             <title>0.12.3</title>
             <pubDate>Sat, 20 Jun 2026 19:29:52 +1200</pubDate>
             <sparkle:version>102</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.2.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.12.2</h2><ul><li>Add Fn push-to-talk key</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.2/VoiceTale-0.12.2.dmg" length="19937901" type="application/octet-stream" sparkle:edSignature="ic6e+fJo3FptMcXuN6y2DrWdvgGVsaaj+zFdOHk3/wKXKqnmNZZPwqA6OqU7lt/+pURMNvCfuUETgZ66jw90Dw=="/>
-        </item>
-        <item>
-            <title>0.12.1</title>
-            <pubDate>Mon, 11 May 2026 22:59:16 +1200</pubDate>
-            <sparkle:version>100</sparkle:version>
-            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.1.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.12.1</h2><ul><li>Fix dictation interruption from push-to-talk (#163)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.1/VoiceTale-0.12.1.dmg" length="19937513" type="application/octet-stream" sparkle:edSignature="up7252PrJqXKhASxPvuJxwtuIFuD5k+10NPtz8d7oeDriUZKGCVjWV6JKRBclq/6ZRmjhli4mGIDqC797JfhBg=="/>
         </item>
         <item>
             <title>0.12.1-beta.3</title>
