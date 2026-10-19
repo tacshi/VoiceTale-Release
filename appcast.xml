@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.13.2</title>
+            <pubDate>Mon, 19 Oct 2026 22:04:18 +1300</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.2.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.13.2</h2><ul><li>Fix system audio permission never taking effect on macOS 15</li><li>improve audio capture and session recovery</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.2/VoiceTale-0.13.2.dmg" length="36971291" type="application/octet-stream" sparkle:edSignature="MXp+R55EcNQO/4Ny/R3DLvIzHg0dcXYcBI4TyBa1vDmaDsQyekWOcSwRSJfxJgeeIp4fgYo6SvVmWQVSIDLwAw=="/>
+        </item>
+        <item>
             <title>0.13.1</title>
             <pubDate>Fri, 14 Aug 2026 01:37:26 +1200</pubDate>
             <sparkle:version>104</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.0.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.13.0</h2><ul><li>TTS (#167)</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.0/VoiceTale-0.13.0.dmg" length="23045844" type="application/octet-stream" sparkle:edSignature="erH9WLze91r2nbd29edqmyk2AE4sKXptDDlDY1kLxh1cUx+Vav9zaCXu1eLuKZf0mXJ9qLsD3GFCI1NeInV7DA=="/>
-        </item>
-        <item>
-            <title>0.12.3</title>
-            <pubDate>Sat, 20 Jun 2026 19:29:52 +1200</pubDate>
-            <sparkle:version>102</sparkle:version>
-            <sparkle:shortVersionString>0.12.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.12.3.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.12.3</h2><ul><li>Bump fluidaudio, update Soniox API to v5 (#166)</li><li>Bump fluidaudio (#165)</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.12.3/VoiceTale-0.12.3.dmg" length="11229059" type="application/octet-stream" sparkle:edSignature="drkjYqnTdJjN1yEDuM+ioxPbSFhrIOt8MEMvK/N6xwzc4oPjiwNMUaEWfslYkXSZpm1f2ckvKol7jb+Nx/pDAw=="/>
         </item>
         <item>
             <title>0.12.1-beta.3</title>
