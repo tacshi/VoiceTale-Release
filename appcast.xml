@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.13.5</title>
+            <pubDate>Thu, 22 Oct 2026 21:05:02 +1300</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>0.13.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.5.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.13.5</h2><ul><li>Fix LLM model lists and surface translation errors</li><li>Fix crash when OpenAI models finish loading after the picker is gone</li><li>Stop sending temperature with LLM requests</li><li>Keep .srt and .vtt extensions when exporting</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.5/VoiceTale-0.13.5.dmg" length="30004775" type="application/octet-stream" sparkle:edSignature="AyIjbuWmWyGBF8yKkMgPncIOBl7zCj8cG35RaVA1xCApF3TgSIF1QPsEUrlRmgvdFrX+2snk++SsyOvmeIieDA=="/>
+        </item>
+        <item>
             <title>0.13.4</title>
             <pubDate>Tue, 20 Oct 2026 21:28:28 +1300</pubDate>
             <sparkle:version>107</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.3.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.13.3</h2><ul><li>Fix delete button in history list view</li><li>Group dictation sidebar into Transcription and Translation sections</li><li>Let the caption window be dragged by its grip</li><li>Show the Soniox TTS model as read-only in the synthesize sidebar</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.3/VoiceTale-0.13.3.dmg" length="30015998" type="application/octet-stream" sparkle:edSignature="Qt+JyODoAAF8kS1Y0gyeip1Y80HPzLBSFLptJjdheMfXGXVlR0QcCoreYXxqdqRUHqP/Ab8BI/FqEA4GgdnqAQ=="/>
-        </item>
-        <item>
-            <title>0.13.2</title>
-            <pubDate>Mon, 19 Oct 2026 22:04:18 +1300</pubDate>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.2.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.13.2</h2><ul><li>Fix system audio permission never taking effect on macOS 15</li><li>improve audio capture and session recovery</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.2/VoiceTale-0.13.2.dmg" length="36971291" type="application/octet-stream" sparkle:edSignature="MXp+R55EcNQO/4Ny/R3DLvIzHg0dcXYcBI4TyBa1vDmaDsQyekWOcSwRSJfxJgeeIp4fgYo6SvVmWQVSIDLwAw=="/>
         </item>
         <item>
             <title>0.12.1-beta.3</title>
