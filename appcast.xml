@@ -3,6 +3,16 @@
     <channel>
         <title>VoiceTale</title>
         <item>
+            <title>0.13.7</title>
+            <pubDate>Wed, 11 Nov 2026 14:45:19 +1300</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>0.13.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.7.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h2>What's New in 0.13.7</h2><ul><li>Bump FluidAudio to 0.18.3 and use Soniox v6 models</li><li>Show progress for the Parakeet CTC model download</li></ul>]]></description>
+            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.7/VoiceTale-0.13.7.dmg" length="31253782" type="application/octet-stream" sparkle:edSignature="IxFDSJH+hFPpVDwH61+gsA9J7Mp9qcrAZCqCDzbrexoDTUk4hQswrtn7PIm28O1Y2NH4jh0pclDAG3ap/uhbAA=="/>
+        </item>
+        <item>
             <title>0.13.6</title>
             <pubDate>Fri, 06 Nov 2026 14:41:08 +1300</pubDate>
             <sparkle:version>109</sparkle:version>
@@ -21,16 +31,6 @@
             <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.5.html</sparkle:releaseNotesLink>
             <description><![CDATA[<h2>What's New in 0.13.5</h2><ul><li>Fix LLM model lists and surface translation errors</li><li>Fix crash when OpenAI models finish loading after the picker is gone</li><li>Stop sending temperature with LLM requests</li><li>Keep .srt and .vtt extensions when exporting</li></ul>]]></description>
             <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.5/VoiceTale-0.13.5.dmg" length="30004775" type="application/octet-stream" sparkle:edSignature="AyIjbuWmWyGBF8yKkMgPncIOBl7zCj8cG35RaVA1xCApF3TgSIF1QPsEUrlRmgvdFrX+2snk++SsyOvmeIieDA=="/>
-        </item>
-        <item>
-            <title>0.13.4</title>
-            <pubDate>Tue, 20 Oct 2026 21:28:28 +1300</pubDate>
-            <sparkle:version>107</sparkle:version>
-            <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://tacshi.github.io/VoiceTale-Release/release-notes/VoiceTale-0.13.4.html</sparkle:releaseNotesLink>
-            <description><![CDATA[<h2>What's New in 0.13.4</h2><ul><li>Resume caption wrapping from the previous line breaks</li><li>Parse speaker paragraphs once per diarized view update</li><li>Show live dictation text in an NSTextView that edits only the tail</li><li>Throttle partial results once, and wait only the remaining interval</li><li>Deliver streaming results in the order providers receive them</li></ul>]]></description>
-            <enclosure url="https://github.com/tacshi/VoiceTale-Release/releases/download/v0.13.4/VoiceTale-0.13.4.dmg" length="30023016" type="application/octet-stream" sparkle:edSignature="RIVB3iMv96wmzYiGRJ40Rg/qpnvnD3DTx4YMEYZk7LJWyMogUzGBHEqEf/vaVGsPB/9+Inz51Q2rYChwtHfAAw=="/>
         </item>
         <item>
             <title>0.12.1-beta.3</title>
